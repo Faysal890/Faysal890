@@ -1,6 +1,6 @@
 # Hi there, I'm Faysal 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Khalilur_Rahman_Faysal-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/md-khalilur-rahman-faysal](https://www.linkedin.com/in/md-khalilur-rahman-faysal-841b1b255/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Khalilur_Rahman_Faysal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-khalilur-rahman-faysal-841b1b255/)
 [![GitHub](https://img.shields.io/badge/GitHub-Faysal890-181717?style=flat&logo=github)](https://github.com/Faysal890)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Khalilur_Rahman_Faysal-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Khalilur_Rahman_Faysal)
 
